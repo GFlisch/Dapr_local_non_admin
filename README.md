@@ -4,7 +4,7 @@ Script to install Dapr on a non admin dev pc.
 
 In a terminal window with Powershell execute the command:
 
-.\install-dapr.ps1 v1.01.5
+.\install-dapr.ps1 v1.10.5
 
 This will copy the dapr cli and runtime. Install it on the default c:\Prj\Dapr folder.
 
